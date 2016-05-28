@@ -1,5 +1,5 @@
 #include<stdio.h>
 int main(){
-print("Hello Kitty");
+print("Hello Teletubby");
 return 0;
 }
